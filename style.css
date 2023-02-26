@@ -1,0 +1,42 @@
+body {
+  background-image: url("./photo-1532135468830-e51699205b70.avif");
+  background-position: center;
+  background-size: cover;
+}
+.box3 {
+  width: 800px;
+  height: 700px;
+  margin: 0 auto;
+  border: 5px solid rgb(244, 193, 207);
+  margin-top: 100px;
+  border-radius: 10px;
+  background-image: url("./photo-1545231097-cbd796f1d95f.avif");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+}
+.add {
+  width: 70px;
+  height: 50px;
+  font-size: 30px;
+  color: rgb(21, 1, 1);
+  border-radius: 10px;
+  border: none;
+}
+.title2 {
+  font-size: 50px;
+  color: rgb(34, 3, 3);
+  text-align: center;
+  margin-top: 80px;
+  font-weight: 700;
+}
+input {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  margin-left: 180px;
+  font-size: 30px;
+}
+.div1 {
+  margin-top: 30px;
+}
